@@ -18,7 +18,7 @@ Tools used:
   - Claude Sonnet 5 (brainstorming and ideation, code / spell check, review of deliverables to ensure consistency across project)
 
 Methodology:
-  - Use yfinance to webscrape 5 years of stock history for 10 different stocks across a variety of industries (save tpo .csv).
+  - Use yfinance to webscrape 5 years of stock history for 10 different stocks across a variety of industries (save to .csv).
   - Check for missing values (0 missing values found).
   - Calculate Daily and Cumulative returns (save to .csv).
   - EDA to find:
